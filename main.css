@@ -434,3 +434,13 @@ label {
     border: 1px solid #0f0a32;
     border-radius: 4px; 
 }
+
+
+
+
+
+
+/* file select */
+::file-selector-button {
+    display: none;
+}
